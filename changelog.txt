@@ -14,3 +14,4 @@ CSS3-tips: Update changelog 2023-11-14
 CSS3-tips: Update changelog 2023-11-15
 CSS3-tips: Update changelog 2023-11-16
 CSS3-tips: Update changelog 2023-11-17
+CSS3-tips: Update changelog 2023-11-18
