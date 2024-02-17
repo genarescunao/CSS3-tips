@@ -106,3 +106,4 @@ CSS3-tips: Update changelog 2024-02-14
 CSS3-tips: Update changelog 2024-02-15
 CSS3-tips: Update changelog 2024-02-16
 CSS3-tips: Update changelog 2024-02-17
+CSS3-tips: Update changelog 2024-02-18
